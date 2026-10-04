@@ -42,7 +42,7 @@ The notebook uses topological summaries to detect structural model misspecificat
 **Probabilistic Programming** · **Computational Mathematics**  
 **Graph Theory** · **Number Theory** · **Topology**
 
-I am especially interested in using **computation as a laboratory for mathematics** — experimenting, searching for structure, falsifying conjectures, and turning computational observations into mathematical questions.
+I use **computation as a laboratory for mathematics**: experimenting, searching for structure, falsifying conjectures, and turning computational observations into mathematical questions.
 
 ---
 
