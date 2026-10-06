@@ -1,7 +1,5 @@
 # Hi, I'm Guillaume
 
-### A Disciple of Programming.
-
 Data scientist and independent researcher interested in the intersection of **data, probability, computation, and mathematics**.
 
 My work spans **Bayesian statistics**, **machine learning**, **data science**, and mathematical research particularly **graph theory**, **number theory**, and computational approaches to mathematical problems.
