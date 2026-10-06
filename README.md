@@ -36,6 +36,17 @@ The notebook uses topological summaries to detect structural model misspecificat
 
 ---
 
+### [`zero-forcing-separator-algebras`](https://github.com/gsidoine/zero-forcing-separator-algebras) — Graph Theory
+
+Research companion repository for **_Separator algebras and transfer theory for the zero-forcing polynomial_**.
+
+The work develops finite separator algebras and exact transfer methods for the zero-forcing polynomial, combining structural graph theory with symbolic and computational verification. The repository contains the manuscript, reference implementations, exact certificates, independent verification scripts, and reproducibility material.
+
+→ [Repository](https://github.com/gsidoine/zero-forcing-separator-algebras)  
+→ [Archival release (Zenodo)](https://doi.org/10.5281/zenodo.23183837)
+
+---
+
 ## Interests
 
 **Data Science** · **Bayesian Statistics** · **Machine Learning**  
@@ -50,7 +61,7 @@ I use **computation as a laboratory for mathematics**: experimenting, searching 
 
 `R` · `Python` · `SQL` · `C++`
 
-`PyMC` · `Stan / brms` · `torch` · `Spark` · `Databricks` . `Snowflake`
+`PyMC` · `Stan / brms` · `torch` · `Spark` · `Databricks` · `Snowflake`
 
 ---
 
