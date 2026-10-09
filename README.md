@@ -63,7 +63,7 @@ The repository contains theorem drafts, exact finite certificates, reproducible 
 
 **Data Science** · **Bayesian Statistics** · **Machine Learning**  
 **Probabilistic Programming** · **Computational Mathematics**  
-**Graph Theory** · **Number Theory** · **Topology**
+**Graph Theory** · **Combinatorics** · **Number Theory** · **Topology** · **Probability Theory**
 
 I use **computation as a laboratory for mathematics**: experimenting, searching for structure, falsifying conjectures, and turning computational observations into mathematical questions.
 
