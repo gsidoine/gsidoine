@@ -45,6 +45,20 @@ The work develops finite separator algebras and exact transfer methods for the z
 
 ---
 
+### [`rewriting-graph-conjectures`](https://github.com/gsidoine/rewriting-graph-conjectures) — Computational Graph Theory
+
+An ongoing computational research programme exploring whether **graph-existence conjectures can be transformed into local normalization and reconfiguration problems**.
+
+The project develops a general theory of certificate coordination, local and neutral rewrites, obstruction structures, and separator composition, alongside applications to major problems in cubic graph theory including **Berge–Fulkerson, Cycle Double Cover, Barnette, and 3-Decomposition**.
+
+A central theme is to use computation not only to search for proofs, but to expose failed conjectures, finite obstructions, reconfiguration barriers, and structural phenomena that can be turned into new mathematics.
+
+The repository contains theorem drafts, exact finite certificates, reproducible computational experiments, negative results, and an explicit claim register distinguishing proved, computational, conjectural, and novelty-unverified results.
+
+→ [Research programme](https://github.com/gsidoine/rewriting-graph-conjectures)
+
+---
+
 ## Interests
 
 **Data Science** · **Bayesian Statistics** · **Machine Learning**  
