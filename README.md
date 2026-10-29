@@ -45,17 +45,15 @@ The work develops finite separator algebras and exact transfer methods for the z
 
 ---
 
-### [`rewriting-graph-conjectures`](https://github.com/gsidoine/rewriting-graph-conjectures) — Computational Graph Theory
+### [`meta-erdos`](https://github.com/gsidoine/meta-erdos) — Mathematical Problem Discovery
 
-An ongoing computational research programme exploring whether **graph-existence conjectures can be transformed into local normalization and reconfiguration problems**.
+An independent research notebook for **generating, testing, and consolidating mathematical problems** across number theory, graph theory, probability, combinatorics, topology, and discrete geometry, inspired by the problem-posing tradition of Paul Erdős.
 
-The project develops a general theory of certificate coordination, local and neutral rewrites, obstruction structures, and separator composition, alongside applications to major problems in cubic graph theory including **Berge–Fulkerson, Cycle Double Cover, Barnette, and 3-Decomposition**.
+The project combines problem formulation with computational experiments, theorem development, adversarial proof checks, and systematic literature and novelty audits. It currently contains **25 research entries**, with selected problems advancing to theorem and publication tracks.
 
-A central theme is to use computation not only to search for proofs, but to expose failed conjectures, finite obstructions, reconfiguration barriers, and structural phenomena that can be turned into new mathematics.
+The emphasis is on separating promising questions from rediscoveries and false starts, while documenting proof status, prior art, reproducibility, and negative evidence as carefully as positive results.
 
-The repository contains theorem drafts, exact finite certificates, reproducible computational experiments, negative results, and an explicit claim register distinguishing proved, computational, conjectural, and novelty-unverified results.
-
-→ [Research programme](https://github.com/gsidoine/rewriting-graph-conjectures)
+→ [Problem catalogue & research notebook](https://github.com/gsidoine/meta-erdos)
 
 ---
 
