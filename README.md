@@ -49,7 +49,7 @@ The work develops finite separator algebras and exact transfer methods for the z
 
 An independent research notebook for **generating, testing, and consolidating mathematical problems** across number theory, graph theory, probability, combinatorics, topology, and discrete geometry, inspired by the problem-posing tradition of Paul Erdős.
 
-The project combines problem formulation with computational experiments, theorem development, adversarial proof checks, and systematic literature and novelty audits. It currently contains **25 research entries**, with selected problems advancing to theorem and publication tracks.
+The project combines problem formulation with computational experiments, theorem development, adversarial proof checks, and systematic literature and novelty audits. It currently contains **36 research entries**, with selected problems advancing to theorem and publication tracks.
 
 The emphasis is on separating promising questions from rediscoveries and false starts, while documenting proof status, prior art, reproducibility, and negative evidence as carefully as positive results.
 
