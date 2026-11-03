@@ -45,15 +45,17 @@ The work develops finite separator algebras and exact transfer methods for the z
 
 ---
 
-### [`meta-erdos`](https://github.com/gsidoine/meta-erdos) — Mathematical Problem Discovery
+### [`the-scottish-book`](https://github.com/gsidoine/the-scottish-book) — Collaborative Mathematical Problem Discovery
 
-An independent research notebook for **generating, testing, and consolidating mathematical problems** across number theory, graph theory, probability, combinatorics, topology, and discrete geometry, inspired by the problem-posing tradition of Paul Erdős.
+An open mathematical notebook inspired by the **Scottish Book** tradition, exploring whether **human–AI collaboration can formulate original and substantial mathematical problems** across number theory, combinatorics, graph theory, probability, topology, and discrete geometry.
 
-The project combines problem formulation with computational experiments, theorem development, adversarial proof checks, and systematic literature and novelty audits. It currently contains **40 research entries**, with selected problems advancing to theorem and publication tracks.
+The project brings together problem formulation, mathematical proofs, computational experiments, formal verification, counterexamples, and systematic literature reviews. Each problem is developed with careful distinctions between conjectures, established results, computational evidence, and historical novelty.
 
-The emphasis is on separating promising questions from rediscoveries and false starts, while documenting proof status, prior art, reproducibility, and negative evidence as carefully as positive results.
+Contributors are welcome to propose new problems, challenge existing formulations, submit proofs or Lean formalizations, and participate in the tradition of symbolic mathematical rewards.
 
-→ [Problem catalogue & research notebook](https://github.com/gsidoine/meta-erdos)
+→ [The Scottish Book — GitHub repository](https://github.com/gsidoine/the-scottish-book)  
+→ [Browse the mathematical problem book](https://gsidoine.github.io/the-scottish-book/)  
+→ [Propose a mathematical problem](https://github.com/gsidoine/the-scottish-book/issues/new?template=propose-problem.yml)
 
 ---
 
